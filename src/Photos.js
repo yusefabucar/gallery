@@ -65,8 +65,8 @@ export const Photos = [
     height: 9,
   },
   {
-    src: "https://i.imgur.com/486XmAG.jpg",
-    width: 16,
+    src: "https://i.imgur.com/jCyzJZD.jpg",
+    width: 14,
     height: 9,
   },
   {
@@ -76,6 +76,41 @@ export const Photos = [
   },
   {
     src: "https://i.imgur.com/r0HmSWW.jpg",
+    width: 1,
+    height: 1,
+  },
+  {
+    src: "https://i.imgur.com/5sbW0RU.jpg",
+    width: 16,
+    height: 9,
+  },
+  {
+    src: "https://i.imgur.com/gl0VLIj.jpg",
+    width: 4,
+    height: 3,
+  },
+  {
+    src: "https://i.imgur.com/zAB3OyA.jpg",
+    width: 16,
+    height: 9,
+  },
+  {
+    src: "https://i.imgur.com/scZH3Qr.jpg",
+    width: 16,
+    height: 9,
+  },
+  {
+    src: "https://i.imgur.com/sQAze1g.png",
+    width: 16,
+    height: 9,
+  },
+  {
+    src: "https://i.imgur.com/OHXEpgQ.png",
+    width: 16,
+    height: 9,
+  },
+  {
+    src: "https://i.imgur.com/ZZDyFFE.jpg",
     width: 1,
     height: 1,
   },
